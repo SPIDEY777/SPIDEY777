@@ -16,7 +16,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/SPIDEY777)
 
-<br/>
+ 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SPIDEY777&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
 
