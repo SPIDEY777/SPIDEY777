@@ -48,7 +48,7 @@ Open To: Backend Engineering · Java Developer Roles · Cybersecurity Engineerin
 
 ---
 
-## ◈ Tech Stack
+## ◈ Powers and Abilities
 
 <div align="center">
 
