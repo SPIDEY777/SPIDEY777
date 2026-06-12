@@ -48,7 +48,7 @@ Open To: Backend Engineering · Java Developer Roles · Cybersecurity Engineerin
 
 ---
 
-## ◈ Powers and Abilities
+## ◈ Powers & Abilities
 
 <div align="center">
 
