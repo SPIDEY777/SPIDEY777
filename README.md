@@ -1,15 +1,14 @@
+<div align="center" style="position:relative;">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/SPIDEY777/SPIDEY777/main/a.jpeg" width="100%" />
+<img src="https://raw.githubusercontent.com/SPIDEY777/SPIDEY777/main/a.jpeg" width="100%"/>
 
-### Kunal Sharma
-**Backend Engineer • Security Systems • API Architect**
+<div>
+
+# Kunal Sharma
+### Backend Engineer • Security Systems • API Architect
+
 </div>
-<br/>
-
-<img src="https://raw.githubusercontent.com/SPIDEY777/SPIDEY777/main/il_570xN.1584610133_7c1a-removebg-preview.png" width="100" />
-
-<br/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Secure+Backend+Systems+at+Scale;Spring+Boot+%7C+REST+APIs+%7C+Spring+Security;Your+Friendly+Neighbourhood+Backend+Engineer+%F0%9F%95%B7%EF%B8%8F)](https://git.io/typing-svg)
 
