@@ -25,11 +25,7 @@
 </div>
 
  <h3 align="center">The web is full of threats. Someone has to secure it.</h3>
- <h1 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h1>
-
+ ## ◈ Behind the Mask
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=SPIDEY777&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
 
 I'm **[`Kunal Sharma`]( https://www.linkedin.com/in/kunal-sharma-penetration-tester/)** a.k.a. Spidey,Backend Engineer with deep expertise in Java and Spring Boot, focused on building **secure, scalable, and production-ready API-driven systems**. I specialize in designing backend architectures that enforce zero-trust security principles — implementing JWT-based RBAC, layered threat scoring, and real-time monitoring pipelines.
