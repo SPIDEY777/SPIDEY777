@@ -1,7 +1,10 @@
+
 <div align="center">
+<img src="https://raw.githubusercontent.com/SPIDEY777/SPIDEY777/main/a.jpeg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Kunal%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Security%20Systems%20%E2%80%A2%20API%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
-
+### Kunal Sharma
+**Backend Engineer • Security Systems • API Architect**
+</div>
 <br/>
 
 <img src="https://raw.githubusercontent.com/SPIDEY777/SPIDEY777/main/il_570xN.1584610133_7c1a-removebg-preview.png" width="100" />
