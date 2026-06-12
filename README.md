@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SPIDEY777/priv/main/spider_logo-removebg-preview.png" width="100" />
+<img src="https://raw.githubusercontent.com/SPIDEY777/SPIDEY777/main/spider_logo-removebg-preview.png" width="100" />
 
 <br/>
 
