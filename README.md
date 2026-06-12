@@ -1,12 +1,13 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Kunal%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Security%20Systems%20%E2%80%A2%20API%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Secure+Backend+Systems+at+Scale;Spring+Boot+%7C+REST+APIs+%7C+Spring+Security;Your+Friendly+Neighbourhood+Backend+Engineer+%F0%9F%95%B7%EF%B8%8F)](https://git.io/typing-svg)
 
-</div>
-<div align="center">
+<br/>
+
 ![Location](https://img.shields.io/badge/📍-Lucknow%2C%20India-6D28D9?style=flat-square&logoColor=white)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-penetration-tester/)
@@ -14,10 +15,12 @@
 [![Email](https://img.shields.io/badge/Email-s733749%40gmail.com-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:s733749@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/SPIDEY777)
-![Profile Views](https://komarev.com/ghpvc/?username=SPIDEY777&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
-&nbsp;
-</div>
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SPIDEY777&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+
+</div>
  <h3 align="center">The web is full of threats. Someone has to secure it.</h3>
   <h3>◈ Behind the Mask</h3>
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=SPIDEY777&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
