@@ -10,7 +10,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-penetration-tester/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-s733749%40gmail.com-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:s733749@gmail.com)
+[![Email](https://img.shields.io/badge/Email-s733749%40gmail.com-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:kunal.sharma.official.work09@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/SPIDEY777)
 ![Profile Views](https://komarev.com/ghpvc/?username=SPIDEY777&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
